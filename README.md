@@ -1,2 +1,4 @@
 # scratchpad
-Share your thoughts through issues or pull requests
+
+Share your thoughts through issues or pull requests.
+
